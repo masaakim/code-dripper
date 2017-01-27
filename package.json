@@ -1,0 +1,19 @@
+{
+  "name": "code-dripper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-to-ast": "^3.4.0",
+    "marked": "^0.3.6",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
